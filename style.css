@@ -384,6 +384,7 @@ footer {
     justify-content: center;
     align-items: center;
     gap: 40px;
+    padding: 2px 2px;
   }
 
   .text-1 > h2,
@@ -422,5 +423,25 @@ footer {
     font-family: "Barlow", sans-serif;
     font-size: 14px;
     font-weight: 600;
+  }
+  .client-testimonials > h2 {
+    font-weight: 800;
+    font-size: 24px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+  }
+
+  .review-desc {
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .authorization > h4 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .authorization p {
+    font-size: 12px;
+    font-weight: 500;
   }
 }
