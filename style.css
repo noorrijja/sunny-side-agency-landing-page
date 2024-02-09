@@ -424,6 +424,12 @@ footer {
     font-size: 14px;
     font-weight: 600;
   }
+
+  .client-testimonials {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
   .client-testimonials > h2 {
     font-weight: 800;
     font-size: 24px;
